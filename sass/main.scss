@@ -1,0 +1,54 @@
+.navbar-brand{
+ font-size: 35px;
+ opacity: 0.9;
+}
+.block{
+ height: 1000px;
+}
+.block2{
+ height: 750px;
+}
+.image{
+ background-attachment: fixed;
+ background-blend-mode: multiply;
+ background-image: url('../images/OIP.jpg');
+ background-size: 50%;
+}
+.btn-warning:hover{
+ background-color: rebeccapurple ;
+ color: yellow
+}
+.showreel{
+ height: 300px;
+}
+.video{
+ background-image: url("../images/download.jpg");
+ background-size: 100%;
+ background-repeat: no-repeat;
+ height: 550px;
+ font-size: 20px;
+}
+.photoNav{
+ height: 200px;
+ font-size: 90px;
+}
+.contactManager{
+ line-height: 10px;
+}
+.fa{
+ cursor: pointer;
+}
+.messegers{
+ width: 40px;
+ display: block;
+ font-size: 20px;
+ text-align: center;
+ padding: 10px 0 10px 0;
+ right: 0;
+ top: 35%;
+ position: fixed;
+}
+.photo img:hover{
+ opacity: 0.7;
+ cursor: pointer;
+}
